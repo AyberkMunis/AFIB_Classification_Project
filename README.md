@@ -1,4 +1,4 @@
-# AFIB_Classification_Project
+# AFIB_Classification_Project :heart_on_fire:
 * This project aims classifying AFIB disease by using patient's ECG records.
 * ECG (Electrocardiogram) is records of electrical signal from heart to check patient's heart conditions.
 * This project uses PTB XL database from kaggle (https://www.kaggle.com/datasets/khyeh0719/ptb-xl-dataset). It includes 21,187 patient's ECG and personal data
